@@ -1,1 +1,1 @@
-
+This section contains problems based on loops, arrays, and functions in Python. It focuses on building strong logic, improving problem-solving skills, and understanding core programming concepts through structured and practical exercises for beginners to intermediate learners.
